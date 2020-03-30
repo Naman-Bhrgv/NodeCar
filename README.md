@@ -1,2 +1,2 @@
 # NodeCar
-A car controlled through WiFi built using arduino and ESP8086.
+A car controlled through WiFi built using Arduino and ESP8086.
